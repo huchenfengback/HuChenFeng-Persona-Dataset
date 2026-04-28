@@ -1,0 +1,11 @@
+{
+  "input_rows": 16711,
+  "kept_rows": 13549,
+  "dropped_rows": 3162,
+  "dpo_pairs_rows": 13486,
+  "train_rows": 6291,
+  "val_rows": 3968,
+  "test_rows": 3290,
+  "style_score_threshold": 0.82,
+  "version": "v1"
+}

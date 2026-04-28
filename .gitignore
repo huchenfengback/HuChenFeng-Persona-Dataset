@@ -1,0 +1,22 @@
+# Runtime files
+*.log
+*.pid
+*.env
+*.key
+*vllm_api_key*
+
+# Training outputs
+**/training/outputs/
+**/training/logs/
+**/training/evals/
+**/checkpoint-*/
+**/adapter_model.*
+**/optimizer.pt
+**/scheduler.pt
+**/trainer_state.json
+**/rng_state*.pth
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

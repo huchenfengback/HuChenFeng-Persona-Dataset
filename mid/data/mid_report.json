@@ -1,0 +1,16 @@
+{
+  "input_rows": 41357,
+  "rule_kept_rows": 41353,
+  "rule_dropped_rows": 4,
+  "recovered_rows_from_raw": 0,
+  "remaining_rows_after_resume": 41353,
+  "rewritten_rows": 32312,
+  "rewrite_dropped_rows": 9041,
+  "final_rows": 32312,
+  "dpo_pairs_rows": 30970,
+  "train_rows": 27322,
+  "val_rows": 4990,
+  "test_rows": 0,
+  "persona_faithful_rewrite": true,
+  "public_version": "mid"
+}
