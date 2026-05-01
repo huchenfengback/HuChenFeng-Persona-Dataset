@@ -35,10 +35,10 @@
 
 | 阶段 | 可读版本入口 | 问答数量 | 日期范围 |
 |---|---|---|---|
-| **早期** | [early/readable/QA_Early.md](early/readable/QA_Early.md) | 13,549 条 | 2023-03-10 ~ 2023-12-31 |
-| **中期** | [mid/readable/QA_Mid.md](mid/readable/QA_Mid.md) | 32,312 条 | 2024-01-01 ~ 2024-10-06 |
+| **早期** | [early/readable/index.html](early/readable/index.html) | 13,549 条 | 2023-03-10 ~ 2023-12-31 |
+| **中期** | [mid/readable/index.html](mid/readable/index.html) | 32,312 条 | 2024-01-01 ~ 2024-10-06 |
 
-> 可读版本仅展示网友提问与户晨风的回答，按日期分组，适合直接阅读。如需训练格式数据（JSONL），请参考各阶段的 `data/` 目录。
+> 可读版本仅展示网友提问与户晨风的回答，按日期拆分为独立页面，GitHub 可直接渲染 HTML。如需训练格式数据（JSONL），请参考各阶段的 `data/` 目录。
 
 ---
 
